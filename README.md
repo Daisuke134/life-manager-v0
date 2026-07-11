@@ -4,6 +4,8 @@
 
 > One self-contained repo. Runs **local** (your keys) or **cloud** (managed keys, paid subscription). OpenClaw — or any scheduler — is just the executor.
 
+**Don't want to self-host?** Message **[@AniccaLifeBot](https://t.me/AniccaLifeBot)** on Telegram — $20/mo, cancel anytime, zero setup. It's the managed-cloud version of everything below.
+
 日本語: 予定の約15分前に Anicca が電話をかけ、「そろそろ出て」と知らせて遅刻を防ぎます。カレンダーを読み、移動時間ブロックを自動挿入し、場所が不明なときはメールで質問し、遅れそうなら承認のうえ相手に連絡します。
 
 ## How it works
