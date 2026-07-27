@@ -5,3 +5,10 @@ __pycache__/
 .DS_Store
 state/
 /data/
+
+# Never commit archives: a backup tar.gz can carry credentials, and
+# `openclaw backup create` writes into the CURRENT directory by default
+# (2026-07-27: a 12.8GB credentials archive landed in a repo root, unignored).
+*.tar.gz
+*.tgz
+*.zip
